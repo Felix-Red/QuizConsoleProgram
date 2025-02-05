@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Geeks_PC42\\Desktop\\C#practice\\QuizConsoleProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC7B2D-4B7F-4B87-B0C7-6B98E94D4F92}|QuizConsoleProgram\\QuizConsoleProgram.csproj|c:\\users\\geeks_pc42\\desktop\\c#practice\\quizconsoleprogram\\quizconsoleprogram\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC7B2D-4B7F-4B87-B0C7-6B98E94D4F92}|QuizConsoleProgram\\QuizConsoleProgram.csproj|solutionrelative:quizconsoleprogram\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC7B2D-4B7F-4B87-B0C7-6B98E94D4F92}|QuizConsoleProgram\\QuizConsoleProgram.csproj|c:\\users\\geeks_pc42\\desktop\\c#practice\\quizconsoleprogram\\quizconsoleprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC7B2D-4B7F-4B87-B0C7-6B98E94D4F92}|QuizConsoleProgram\\QuizConsoleProgram.csproj|solutionrelative:quizconsoleprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC7B2D-4B7F-4B87-B0C7-6B98E94D4F92}|QuizConsoleProgram\\QuizConsoleProgram.csproj|c:\\users\\geeks_pc42\\desktop\\c#practice\\quizconsoleprogram\\quizconsoleprogram\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC7B2D-4B7F-4B87-B0C7-6B98E94D4F92}|QuizConsoleProgram\\QuizConsoleProgram.csproj|solutionrelative:quizconsoleprogram\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\Geeks_PC42\\Desktop\\C#practice\\QuizConsoleProgram\\QuizConsoleProgram\\Quiz.cs",
+              "RelativeDocumentMoniker": "QuizConsoleProgram\\Quiz.cs",
+              "ToolTip": "C:\\Users\\Geeks_PC42\\Desktop\\C#practice\\QuizConsoleProgram\\QuizConsoleProgram\\Quiz.cs*",
+              "RelativeToolTip": "QuizConsoleProgram\\Quiz.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswEAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:03:33.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Geeks_PC42\\Desktop\\C#practice\\QuizConsoleProgram\\QuizConsoleProgram\\Question.cs",
+              "RelativeDocumentMoniker": "QuizConsoleProgram\\Question.cs",
+              "ToolTip": "C:\\Users\\Geeks_PC42\\Desktop\\C#practice\\QuizConsoleProgram\\QuizConsoleProgram\\Question.cs",
+              "RelativeToolTip": "QuizConsoleProgram\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:55:47.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Geeks_PC42\\Desktop\\C#practice\\QuizConsoleProgram\\QuizConsoleProgram\\Program.cs",
+              "RelativeDocumentMoniker": "QuizConsoleProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\Geeks_PC42\\Desktop\\C#practice\\QuizConsoleProgram\\QuizConsoleProgram\\Program.cs",
+              "RelativeToolTip": "QuizConsoleProgram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:54:05.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

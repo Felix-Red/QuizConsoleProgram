@@ -1,0 +1,14 @@
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\bin\Debug\net8.0\QuizConsoleProgram.exe
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\bin\Debug\net8.0\QuizConsoleProgram.deps.json
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\bin\Debug\net8.0\QuizConsoleProgram.runtimeconfig.json
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\bin\Debug\net8.0\QuizConsoleProgram.dll
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\bin\Debug\net8.0\QuizConsoleProgram.pdb
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\obj\Debug\net8.0\QuizConsoleProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\obj\Debug\net8.0\QuizConsoleProgram.AssemblyInfoInputs.cache
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\obj\Debug\net8.0\QuizConsoleProgram.AssemblyInfo.cs
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\obj\Debug\net8.0\QuizConsoleProgram.csproj.CoreCompileInputs.cache
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\obj\Debug\net8.0\QuizConsoleProgram.dll
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\obj\Debug\net8.0\refint\QuizConsoleProgram.dll
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\obj\Debug\net8.0\QuizConsoleProgram.pdb
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\obj\Debug\net8.0\QuizConsoleProgram.genruntimeconfig.cache
+C:\Users\Geeks_PC42\Desktop\C#practice\QuizConsoleProgram\QuizConsoleProgram\obj\Debug\net8.0\ref\QuizConsoleProgram.dll
